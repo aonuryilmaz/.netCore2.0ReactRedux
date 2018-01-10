@@ -1,0 +1,11 @@
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\bin\Debug\netcoreapp2.0\ReactReduxComponentManagement.deps.json
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\bin\Debug\netcoreapp2.0\ReactReduxComponentManagement.runtimeconfig.json
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\bin\Debug\netcoreapp2.0\ReactReduxComponentManagement.runtimeconfig.dev.json
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\bin\Debug\netcoreapp2.0\ReactReduxComponentManagement.dll
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\bin\Debug\netcoreapp2.0\ReactReduxComponentManagement.pdb
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\obj\Debug\netcoreapp2.0\ReactReduxComponentManagement.csprojResolveAssemblyReference.cache
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\obj\Debug\netcoreapp2.0\ReactReduxComponentManagement.csproj.CoreCompileInputs.cache
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\obj\Debug\netcoreapp2.0\ReactReduxComponentManagement.AssemblyInfoInputs.cache
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\obj\Debug\netcoreapp2.0\ReactReduxComponentManagement.AssemblyInfo.cs
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\obj\Debug\netcoreapp2.0\ReactReduxComponentManagement.dll
+C:\Users\MMC-yazilim\Documents\Visual Studio 2017\Projects\ReactReduxComponentManagement\ReactReduxComponentManagement\obj\Debug\netcoreapp2.0\ReactReduxComponentManagement.pdb
